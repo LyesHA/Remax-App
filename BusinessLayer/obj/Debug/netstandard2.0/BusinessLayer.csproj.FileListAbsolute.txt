@@ -1,0 +1,9 @@
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\Lyes\Desktop\Collège Lasalle\4e Session\Programmation évenmentielle\Projet Remax\prjReMax_Lyes_HadjAissa\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
